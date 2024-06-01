@@ -1,0 +1,33 @@
+[28-May-2024 14:02:10 UTC] PHP Fatal error:  Cannot redeclare acf_register_block() (previously declared in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php:236) in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-content\plugins\custom-blocks\custom-blocks.php on line 70
+[28-May-2024 14:02:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[28-May-2024 14:02:10 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[28-May-2024 14:03:28 UTC] PHP Fatal error:  Cannot redeclare acf_register_block() (previously declared in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php:236) in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-content\plugins\custom-blocks\custom-blocks.php on line 70
+[28-May-2024 14:03:28 UTC] PHP Fatal error:  Cannot redeclare acf_register_block() (previously declared in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php:236) in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-content\plugins\custom-blocks\custom-blocks.php on line 70
+[28-May-2024 14:03:33 UTC] PHP Fatal error:  Cannot redeclare acf_register_block() (previously declared in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php:236) in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-content\plugins\custom-blocks\custom-blocks.php on line 70
+[28-May-2024 14:03:37 UTC] PHP Fatal error:  Cannot redeclare acf_register_block() (previously declared in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php:236) in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-content\plugins\custom-blocks\custom-blocks.php on line 70
+[28-May-2024 14:03:37 UTC] PHP Fatal error:  Cannot redeclare acf_register_block() (previously declared in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-content\plugins\advanced-custom-fields-pro\pro\blocks.php:236) in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-content\plugins\custom-blocks\custom-blocks.php on line 70
+[29-May-2024 06:31:17 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:18 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:18 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:19 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:19 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:19 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:19 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:19 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:19 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:19 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:19 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:19 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:19 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:19 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:22 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:22 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:22 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:22 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:22 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:22 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:23 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:38 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:40 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:40 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
+[29-May-2024 06:31:40 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\chris\Local Sites\boilerplate-headless-wp\app\public\wp-config.php on line 94
